@@ -7,7 +7,7 @@ npm run dev
 
 ## Reproduce
 
-1. Visit `/bug`
+1. Visit `/`
 2. Submit the form twice.
 3. The second time, the context token is not passed correctly and the values
    don't match, so it errors.
